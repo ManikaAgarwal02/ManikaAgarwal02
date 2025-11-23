@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manika Agarwal and I'm an asiring full stack developer</p>
+<p align="left">My name is Manika Agarwal and I'm an asiring Fullstack Developer</p>
 
 ###
 
