@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manika  
 
-### 🚀 Aspiring Full Stack Developer | Open Source Enthusiast  
+### 🚀 Aspiring Full Stack Developer   
 
 I’m passionate about building modern web applications, learning new technologies, and contributing to impactful projects. Currently focusing on **React, JavaScript, Node.js, APIs, and backend development** while building real-world projects.  
 
