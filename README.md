@@ -41,6 +41,7 @@ I’m passionate about building modern web applications, learning new technologi
 ---
 
 ## 📫 Connect With Me  
+- Email: manikaag29@gmail.com 
 - GitHub: [ManikaAgarwal02](https://github.com/ManikaAgarwal02)  
 - LinkedIn: [Manika Agarwal](https://www.linkedin.com/in/manika-agarwal-b7b2a737b/)  
 
